@@ -1,7 +1,5 @@
 # Repos
 Practice Repository
-Let me add a few lines
-and delete a few lines
-Making changes isn't hard
-I
-think
+Favorite Movie: Scott Pilgrim vs the World
+Favorite Book: The Count of Monte Cristo
+Favorite Album: Bloom, by Beach House

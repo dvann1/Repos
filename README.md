@@ -1,3 +1,7 @@
 # Repos
 Practice Repository
-I need to practice using GitHub.
+Let me add a few lines
+and delete a few lines
+Making changes isn't hard
+I
+think
